@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "157.180.103.56", 
-    "port": 21138,   
+    "ip": "exe-smo.falix.gg", 
+    "port": 25195,   
     "version": "1.12.1"   
   },
 
